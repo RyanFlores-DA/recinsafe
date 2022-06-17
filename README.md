@@ -39,4 +39,5 @@ Express
 dotenv
 ```
 
-"https://nodejs.org/en/download/"
+1. https://nodejs.org/en/download/
+2. https://www.postgresql.org/download/
