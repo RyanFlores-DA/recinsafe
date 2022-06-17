@@ -13,6 +13,7 @@ JAVASCRIPT
 ```
 
 **Código HTML e CSS foram retirados de um site que gera automaticamente, evitar modificar Front-End a não ser que contenha bugs ou issues**
+**Não é necessária a instalação de nenhu framework para o projeto Front-End nem biblioteca.**
 <br>
 
 
@@ -26,3 +27,12 @@ firebase deploy
 ```
 
 **Esta lista está presente só para fins didaticos, o update no Hosting será feito apenas por uma pessoa**
+
+
+<h2>Descrição do projeto Back-End:</h2>
+
+```
+!NodeJs(https://nodejs.org/en/download/)
+CSS(Código trancado, favor não modificar)
+JAVASCRIPT
+```
