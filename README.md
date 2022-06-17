@@ -4,7 +4,7 @@
 
 ![Praça Marco Zero Recife](https://media.istockphoto.com/photos/architecture-from-marco-zero-square-in-recife-downtown-picture-id1162468341?k=20&m=1162468341&s=612x612&w=0&h=-wW4gln8cKIfKmgFNKBkILNmqkdg6i8wMRw7Jli5HHw=)
 
-<h3>Descrição do projeto Front-End:</h3>
+<h2>Descrição do projeto Front-End:</h2>
 
 ```
 HTML5
