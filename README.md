@@ -13,7 +13,7 @@ JAVASCRIPT
 ```
 
 **Código HTML e CSS foram retirados de um site que gera automaticamente, evitar modificar Front-End**
-
+<br>
 
 
 <h3>Comandos firebase:</h3>
