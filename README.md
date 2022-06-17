@@ -7,10 +7,13 @@
 <h3>Descrição do projeto Front-End:</h3>
 
 ```
-HTML5
-CSS(*Código trancado, não modificar*)
-JAVASCRIPT
+-HTML5
+-CSS(Código trancado, favor não modificar)
+-JAVASCRIPT
 ```
+
+-*Código HTML e CSS foram retirados de um site que gera automaticamente, evitar modificar Front-End*
+
 
 
 <h3>Comandos firebase:</h3>
