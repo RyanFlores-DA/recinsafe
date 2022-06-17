@@ -32,7 +32,9 @@ firebase deploy
 <h2>Descrição do projeto Back-End:</h2>
 
 ```
-NodeJs - <a href=“https://nodejs.org/en/download/">NodeJs</a>
+NodeJs
 CSS(Código trancado, favor não modificar)
 JAVASCRIPT
 ```
+
+<a href=“https://nodejs.org/en/download/">NodeJs</a>
