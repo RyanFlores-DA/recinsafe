@@ -41,3 +41,6 @@ dotenv
 
 1. https://nodejs.org/en/download/
 2. https://www.postgresql.org/download/
+
+
+**Em breve o README.md será atualizado com novas informações**
