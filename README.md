@@ -12,7 +12,7 @@ CSS(Código trancado, favor não modificar)
 JAVASCRIPT
 ```
 
-**Código HTML e CSS foram retirados de um site que gera automaticamente, evitar modificar Front-End**
+**Código HTML e CSS foram retirados de um site que gera automaticamente, evitar modificar Front-End a não ser que contenha bugs ou issues**
 <br>
 
 
@@ -24,3 +24,5 @@ firebase login
 firebase init
 firebase deploy
 ```
+
+**Esta lista está presente só para fins didaticos, o update no Hosting será feito apenas por uma pessoa**
